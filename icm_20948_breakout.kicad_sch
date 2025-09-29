@@ -3151,6 +3151,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 66.04 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "91110691-5996-4723-9063-f2d09fc043d3")
 		)
@@ -3555,6 +3564,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C88945"
+			(at 116.84 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0ed74dde-3cfd-45d1-afaf-f999353e1883")
 		)
@@ -3617,6 +3635,15 @@
 			)
 		)
 		(property "Description" "Dual-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translation and 3-State Outputs, DSBGA-8 (C913828)"
+			(at 54.61 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C913828"
 			(at 54.61 59.69 0)
 			(effects
 				(font
@@ -3977,6 +4004,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C352970"
+			(at 54.61 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "534b7bdf-1c0b-4a13-bdfb-3891686cbbda")
 		)
@@ -4184,6 +4220,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 44.45 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1525"
 			(at 44.45 41.91 0)
 			(effects
 				(font
@@ -4658,7 +4703,7 @@
 				(hide yes)
 			)
 		)
-		(property "Field5" ""
+		(property "LCSC" "C1525"
 			(at 146.05 104.14 90)
 			(effects
 				(font
@@ -4869,6 +4914,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C913828"
+			(at 54.61 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A2"
 			(uuid "2ad00d8c-f2a0-4a28-bc2d-b1e0f8a00f5c")
 		)
@@ -4949,6 +5003,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 44.45 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1525"
 			(at 44.45 93.98 0)
 			(effects
 				(font
@@ -5159,6 +5222,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 66.04 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b758fbb7-995c-4ba6-88fb-16b55b63f6c9")
 		)
@@ -5220,6 +5292,15 @@
 			)
 		)
 		(property "Description" "200mA Low Dropout Voltage Regulator, Fixed Output 1.8V, SC70-5"
+			(at 130.81 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C133796"
 			(at 130.81 50.8 0)
 			(effects
 				(font
@@ -5440,6 +5521,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C726001"
+			(at 129.54 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "16"
 			(uuid "0c0f9cde-b402-4847-884d-d1a0c24fe8ca")
 		)
@@ -5643,6 +5733,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 44.45 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5f93103e-d839-44d2-a999-a70937d382cc")
 		)
@@ -5704,6 +5803,15 @@
 		)
 		(property "Description" "Unpolarized capacitor (C1525)"
 			(at 152.4 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 152.4 135.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5914,6 +6022,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1525"
+			(at 66.04 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "808ddfac-a5fb-4d06-a290-00546f4c4ca9")
 		)
@@ -5976,6 +6093,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor (C88945)"
+			(at 140.97 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C88945"
 			(at 140.97 39.37 0)
 			(effects
 				(font
@@ -6112,6 +6238,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 245.11 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C492406"
 			(at 245.11 46.99 0)
 			(effects
 				(font
